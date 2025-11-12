@@ -1,3 +1,3 @@
 # BAOWD
-A OWOD detector
+A OWOD detector.
 The code will be publicated after paper acceptance.
